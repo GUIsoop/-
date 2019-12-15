@@ -24,7 +24,7 @@
   我拍的网站是[GUIsoop](https://github.com/GUIsoop/Markdown/new/master)
 
 
-![一张图片](C:\Users\MSI\Desktop\one\2.png)
+![一张图片](/imager/2.png)
 
 
 
